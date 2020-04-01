@@ -25,8 +25,11 @@ Winter is defined as December, January, February, March
 
 Questions
 What genres of movies are the most profitable?
+
 What time of year should individual genres be released?
+
 What time of year do movies overall tend to perform best over the last decade?
+
 What genres of movies are the most profitable?
 Method: Created two charts for this question. The first chart was to see which movie genres showed up most often in the top 1000 most profitable movies. The second chart showed the average profit of each genre using the profits of the top 1000 movies
 
