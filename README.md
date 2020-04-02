@@ -38,19 +38,23 @@ What time of year do movies overall tend to perform best over the last decade?
 **Method:** Created two charts for this question. The first chart was to see which movie genres showed up most often in the top 1000 most profitable movies. The second chart showed the average profit of each genre using the profits of the top 1000 movies
 
 **Results:** The first chart showed that the three genres that showed up the most were Drama, Comedy, and Action. The second chart showed that three most profitable genres were SciFi, Adventure, and Animation
+![scatter](scatterplotgenre.png) ![bar](barplotgenre.png)
 
 **Recommendation:** I would recommend making an adventure movie based on the returned data. Adventure movies have the second highest average profit while having the 4th highest count for genres of the top 1000 movies. Even though SciFi movies show the highest average profit, there are very few SciFi movies that show up in the top 1000 movies. On the other hand, even though Drama movies show up the most in the top 1000 movie, their average profit overall is quite low.
 
-## What time of year should invidual genres be released?
+## What time of year should individual genres be released?
 
 **Method:** Created one chart for this question. The purpose of this chart was to show the average profit by season for each genre.
 
 **Results:** The chart showed that these were the seasons where each genre performed best:
 
+![barseason](barplotbyseason.png)
+
         * Spring: Action, Adventure, Crime, Mystery, SciFi, Thriller, War  
         * Summer: Animation, Comedy, History
         * Fall: Biography, Documentary, Drama, Music, Sport
         * Winter: Family, Fantasy, Horror, Musical, Romance, Western
+
 
 **Recommendation:** I would recommend using the chart and the above results when deciding when to release a specific genre of movie. Using my recomended genre of Adventure, I would recommend releasing it during the Spring since the Spring shows the highest average profit.
 
@@ -60,6 +64,8 @@ What time of year do movies overall tend to perform best over the last decade?
 
 **Results:** The first chart showed that the the order of the seasons by average profit for each year was:
 
+![line](lineplotseason.png) ![box](boxplotmonth.png)
+        
          * 2010: Summer, Fall, Winter, Spring 
          * 2011: Spring, Winter, Summer, Fall
          * 2012: Fall, Winter, Summer, Spring
